@@ -13,14 +13,13 @@
 #include <asm/io.h>
 
 /***************************************************************
-Copyright © ALIENTEK Co., Ltd. 1998-2029. All rights reserved.
 文件名	: char_module.c
 作者	  	: Mr.chen
 版本	   	: V1.0
 描述	   	: 字符驱动模板文件
 其他	   	: 无
 博客 	   	: https://me.csdn.net/u014133923
-GitHub  : https://github.com/HongyunChen
+GitHub  : https://github.com/pupilpro
 日志	   	: [create][2019.11.6]
 ***************************************************************/
 #define chardevbase_CNT					1		  	/* 设备号个数 */

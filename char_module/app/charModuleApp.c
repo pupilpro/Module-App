@@ -7,14 +7,13 @@
 #include "string.h"
 
 /***************************************************************
-Copyright © ALIENTEK Co., Ltd. 1998-2029. All rights reserved.
 文件名	: charModuleApp.c
 作者	  	: Mr.chen
 版本	   	: V1.0
 描述	   	: 应用测试例程
 其他	   	: 无
 博客 	   	: https://me.csdn.net/u014133923
-GitHub  : https://github.com/HongyunChen
+GitHub  : https://github.com/pupilpro
 日志	   	: [create][2019.11.6]
 ***************************************************************/
 char *filename = "/dev/chardevbase";
